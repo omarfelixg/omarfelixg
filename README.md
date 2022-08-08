@@ -6,13 +6,13 @@
 - 🧑🏻‍💻 I’m looking to get a job in a startup company.
 - 🥅 2022 Goals:Get grade A in the Cambridge Proficiency Exam and deepen in Software Engineering Knowledge.
 - ⚡ Fun fact: I love listening music.
-- 📫 How to reach me **renzo.quispe.c@uni.pe** or **+51 910 534 820**.
+- 📫 How to reach me **renzo.quispe.c@uni.pe** or **+51 999 105 861**.
 <br /><br />
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
