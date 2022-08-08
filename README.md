@@ -50,6 +50,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzoqc" alt="omarfelixg" /></a> </p>
 
-[website]: https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a
-[linkedin]: https://www.linkedin.com/in/renzo-quispe-cardenas-37a62a15a
+[website]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
+[linkedin]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
 
