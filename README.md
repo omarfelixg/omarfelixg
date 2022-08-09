@@ -48,7 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoqc&" alt="codebit-00" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzoqc" alt="omarfelixg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfelixg" alt="omarfelixg" /></a> </p>
 
 [website]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
 [linkedin]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
