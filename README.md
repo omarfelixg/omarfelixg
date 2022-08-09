@@ -1,4 +1,5 @@
 # Hi there, I'm Omar Felix [omarfelixg][website] 👋
+<p align="center"><img width="80%" alt="Hello, I'm Omar Felix 👋" src="./assets/gh-readme-header.png" /></a></p>
 
 ## I'm a Developer, and Entrepreneur!!
 
