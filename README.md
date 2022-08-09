@@ -42,7 +42,7 @@
 
 ### 📕 STATS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfelixg&show_icons=true&locale=en&layout=compact" alt="codebit-00" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfelixg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Renzo Quispe GitHub stats](https://github-readme-stats.vercel.app/api?username=omarfelixg&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
