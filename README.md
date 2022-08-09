@@ -46,6 +46,9 @@
 
 [![Renzo Quispe GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoqc&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarfelixg)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoqc&" alt="codebit-00" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzoqc" alt="omarfelixg" /></a> </p>
