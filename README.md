@@ -54,6 +54,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfelixg" alt="omarfelixg" /></a> </p>
 
-[website]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
-[linkedin]: https://www.linkedin.com/in/omar-marcelino-felix-gamboa-a2a7821b9
+[website]: https://www.linkedin.com/in/omar-felix-gamboa-a2a7821b9
+[linkedin]: https://www.linkedin.com/in/omar-felix-gamboa-a2a7821b9
 
